@@ -1,0 +1,5 @@
+name,optional,optional2,lon,lat
+Hartford,city,"https://en.wikipedia.org/wiki/Hartford,_Connecticut",-72.67,41.76
+Bloomfield,suburb,"https://en.wikipedia.org/wiki/Bloomfield,_Connecticut",-72.73,41.85
+West Hartford,suburb,"https://en.wikipedia.org/wiki/West_Hartford,_Connecticut",-72.75,41.76
+,,,-72.64434814453125,41.813034808619015
